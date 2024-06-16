@@ -1,0 +1,12 @@
+/website
+│
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+│
+├── css
+│   └── styles.css
+│
+└── js
+    └── scripts.js
